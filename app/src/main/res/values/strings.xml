@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">SulselExplo App</string>
+    <string name="no_data">No results found</string>
+    <string name="no_internet">Oops... An error occurred</string>
+    <string name="searchbar_placeholder">Where do you want to go?</string>
+    <string name="home">Home</string>
+    <string name="favorite">Favorite</string>
+    <string name="profile">Profile</string>
+</resources>
